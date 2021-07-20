@@ -15,6 +15,9 @@ footer, h2, p, li, a {
   font-family: 'Montserrat', sans-serif;
   color: #EAF6F6;
 }
+header p {
+  font-size: 24px;
+}
 p {
   font-size: 18px;
 }
@@ -39,7 +42,6 @@ h2 {
 p, li {
   line-height: 2;
 }
-
 main {
   margin: -20px 0;
   background-color: #562e59;
@@ -66,7 +68,7 @@ li {
   border-radius: 50%;
 }
 /* sets top/bottom margin to 0
-  left/right for 20% */
+        left/right for 20% */
 .center-box {
   margin: 0 20%;
 }
@@ -76,14 +78,14 @@ a {
   font-weight: bold;
 }
 a:link {
-  color: #c9c9c9;
+  color: #EAF6F6;
 }
 a:visited {
   color: rgb(240, 142, 173);
 }
 a:hover {
-  color: #0ae4f2;
+  color: #00818a;
 }
 a:active {
-  color: rgb(11, 56, 94);
+  color: #002124;
 }
