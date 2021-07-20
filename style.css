@@ -11,11 +11,13 @@ header, footer {
   padding-bottom: 30px;
 }
 /* sets font family and color for all listed selectors */
-footer, h2, p, li, h3, a {
+footer, h2, p, li, a {
   font-family: 'Montserrat', sans-serif;
   color: #EAF6F6;
 }
-
+p {
+  font-size: 18px;
+}
 footer {
   padding: 50px 0 20px;
   padding: 30px;
@@ -31,6 +33,7 @@ h1 {
 
 h2 {
   text-align: center;
+  font-size: 35px;
 }
 /* more space between lines for better readability */
 p, li {
